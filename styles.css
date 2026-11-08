@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-color: #eef3f8;
   color: #243247;
   margin: 0;
@@ -47,4 +48,8 @@ nav li {
   margin: 0 0 18px;
   padding: 0 0 12px;
   border-bottom: 2px solid #c76a14;
+}
+
+h1, h2, h3 {
+  font-family: 'Lora', serif;
 }
